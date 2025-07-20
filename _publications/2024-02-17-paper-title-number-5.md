@@ -1,12 +1,12 @@
 ---
 title: "Securing Mobile GPU Drivers with Hypervisor-Based Virtualization"
 collection: publications
-permalink: /publication/2023-10-sosp
+permalink: /publication/2023-09-arxiv
 excerpt: 'This paper presents a novel approach to securing mobile GPU drivers using hypervisor-based virtualization.'
-date: 2023-10-23
-venue: 'Proceedings of the 29th ACM Symposium on Operating Systems Principles (SOSP)'
-paperurl: 'https://dl.acm.org/doi/10.1145/3600006.3613147'
-citation: 'Parsa Delavari and Ardalan Amiri Sani. 2023. Securing Mobile GPU Drivers with Hypervisor-Based Virtualization. In Proceedings of the 29th ACM Symposium on Operating Systems Principles (SOSP &apos;23).'
+date: 2023-09-14
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2309.08380'
+citation: 'Parsa Delavari and Ardalan Amiri Sani. 2023. Securing Mobile GPU Drivers with Hypervisor-Based Virtualization. arXiv preprint arXiv:2309.08380.'
 ---
 
 ## Abstract
@@ -16,4 +16,4 @@ Mobile GPU drivers are critical components in modern mobile systems, yet they re
 * Novel virtualization architecture for mobile GPU drivers
 * Comprehensive security analysis and evaluation
 * Performance optimizations for minimal overhead
-* Implementation and evaluation on real mobile devices
+* Implementation and evaluation on real mobile devices 
